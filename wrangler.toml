@@ -8,4 +8,4 @@ binding = "ASSETS"
 
 [[kv_namespaces]]
 binding = "BOOKINGS_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "bf87107c0ea84c05aad974d7ab323b2d"
