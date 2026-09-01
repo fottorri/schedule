@@ -1,0 +1,11 @@
+name = "fotoroschedule"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[kv_namespaces]]
+binding = "BOOKINGS_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
